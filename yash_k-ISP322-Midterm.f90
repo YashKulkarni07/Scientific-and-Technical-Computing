@@ -1,3 +1,10 @@
+/* 
+Yash Kulkarni
+Kshift-Cypher
+A program that gives the first 10,000 prime triples based on goldbach conjecture
+10/27/2020
+ */
+
 Module Prime
 implicit none
 integer::n,srrp,i,condition=0
