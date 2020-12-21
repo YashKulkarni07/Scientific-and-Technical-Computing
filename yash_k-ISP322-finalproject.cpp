@@ -1,3 +1,12 @@
+/* 
+Yash Kulkarni
+Kshift-Cypher
+A program that models the spread of an infectious diseases from a single person level all the way to a global population level
+10/27/2020
+ */
+
+
+
 #include <iostream>
 #include <string>
 #include <ctime>
